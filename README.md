@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Emad, my friends call me Eddy
-- 👀 I’m interested in Quantitative FFFiiinnnaaannnccceee
+- 👀 I’m interested in Quantitative Finance
 - 🌱 I’m currently learning Python and MATLAB
